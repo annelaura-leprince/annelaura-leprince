@@ -1,6 +1,10 @@
 # Hi, I'm Anne-Laura 👋
-## Welcome to my Github profil![Github Logo](https://img.icons8.com/?size=100&id=52539&format=png&color=000000)
-### [![LinkedIn Logo](https://github.com/user-attachments/assets/96347be6-e2d0-4995-a9e4-a5d5e32b9748)](https://www.linkedin.com/in/aleprince/)
+## Welcome to my Github profil ![Github Logo](https://img.icons8.com/?size=50&id=52539&format=png&color=000000)
+<!--- ### [![LinkedIn Logo](https://github.com/user-attachments/assets/96347be6-e2d0-4995-a9e4-a5d5e32b9748)](https://www.linkedin.com/in/aleprince/) --->
+<a href="https://www.linkedin.com/in/aleprince/"> 
+<img src="https://github.com/user-attachments/assets/96347be6-e2d0-4995-a9e4-a5d5e32b9748" alt="LinkedIn Logo" style="width: 5%;">
+</a>
+
 
 
 
